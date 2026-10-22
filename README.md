@@ -1,56 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d1b69,100:4b2a8a&height=220&section=header&text=umpug&fontSize=64&fontColor=e0e0ff&fontAlignY=38&desc=The%20Beginning%20After%20the%20End&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:2d1b69,100:4b2a8a&height=240&section=header&text=umpug&fontSize=72&fontColor=e0e0ff&fontAlignY=42&desc=THE%20BEGINNING%20AFTER%20THE%20END&descSize=18&descAlignY=66&animation=twinkling" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=umpug+%C3%97+King+Grey;Declarative+systems%2C+reproducible+power;NixOS+%7C+Hyprland+%7C+VFIO;Reborn+with+a+better+config" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&pause=1400&color=A78BFA&center=true&vCenter=true&width=680&lines=KING+GREY;Patience+is+a+resource.+Mine+is+gone.;NixOS+%7C+Hyprland+%7C+VFIO;Kneel+to+the+config" alt="typing" />
 
 </div>
 
 ---
 
-## 👑 King Grey & Regis
-
 <div align="center">
+
+## 👁️ THE KING & HIS BEAST
+
 <table>
   <tr>
     <td align="center">
       <!-- replace the file in /assets with your own fan art -->
       <img src="./assets/king-grey.jpg" width="320" alt="King Grey" /><br />
-      <b>King Grey</b><br />
-      <sub>one mind, one config</sub>
+      <b>👑 KING GREY</b><br />
+      <sub>cold. patient. finished waiting.</sub>
     </td>
     <td align="center">
       <img src="./assets/regis.jpg" width="320" alt="Regis" /><br />
-      <b>Regis</b><br />
-      <sub>the best partner a king could ask for</sub>
+      <b>🐺 REGIS</b><br />
+      <sub>the shadow that never leaves his side</sub>
     </td>
   </tr>
 </table>
-</div>
-
-<div align="center">
-
-> *"I've lost everything once. I won't lose it again."*
->
-> *"A king doesn't wait for strength. He builds it."*
->
-> *"Alone I was a weapon. With Regis, I'm a kingdom."*
->
-> <sub>— King Grey</sub>
 
 </div>
 
 ---
 
-## 🔮 About me
+<div align="center">
 
-- ❄️ Running **NixOS**, everything declarative, everything reproducible
-- 👤 I'm **umpug**
-- 🪟 Daily driving **Hyprland**
-- 🎮 AMD gaming tuned and **single-GPU VFIO passthrough** for the stuff Linux can't run natively
+## ☠️ FINAL WARNING
+
+> ### *"Agrona, you've tested my patience long enough. You have ten seconds."*
+>
+> <sub>— King Grey</sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=40&pause=700&color=A78BFA&center=true&vCenter=true&width=500&height=70&repeat=true&lines=10;9;8;7;6;5;4;3;2;1;TIME'S+UP" alt="countdown" />
+
+</div>
+
+---
+
+## 🩸 ABOUT THE KING
+
+- 👤 **umpug**. I rebuild from nothing, and I don't lose twice.
+- ❄️ **NixOS** — every system declared, every rebuild a rebirth
+- 🪟 **Hyprland** — a throne with no wasted pixels
+- 🎮 AMD gaming tuned to the edge, **single-GPU VFIO passthrough** when Linux alone isn't enough
 - 🐦 X: [@umpugg](https://x.com/umpugg)
 
-## ⚔️ Mana Core
+## ⚔️ ARSENAL
 
 <div align="center">
 
@@ -63,7 +67,7 @@
 
 </div>
 
-## 🗡️ Artifacts (Featured Repos)
+## 🗡️ ARTIFACTS
 
 <div align="center">
 
@@ -76,7 +80,7 @@
 
 </div>
 
-## 📜 Stats
+## 📜 BATTLE RECORD
 
 <div align="center">
 
@@ -89,8 +93,8 @@
 
 <div align="center">
 
-<sub>"Every rebuild is a new life."</sub>
+<sub>Every rebuild is a new life.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b2a8a,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:4b2a8a,100:0d1117&height=120&section=footer&reversal=true" width="100%" alt="footer" />
 
 </div>
