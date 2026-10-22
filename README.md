@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d1b69,100:4b2a8a&height=220&section=header&text=kUmutUK&fontSize=64&fontColor=e0e0ff&fontAlignY=38&desc=The%20Beginning%20After%20the%20End&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d1b69,100:4b2a8a&height=220&section=header&text=umpug&fontSize=64&fontColor=e0e0ff&fontAlignY=38&desc=The%20Beginning%20After%20the%20End&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=King+Grey+%C3%97+Regis;Declarative+systems%2C+reproducible+power;NixOS+%7C+Hyprland+%7C+VFIO;Reborn+with+a+better+config" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=umpug+%C3%97+King+Grey;Declarative+systems%2C+reproducible+power;NixOS+%7C+Hyprland+%7C+VFIO;Reborn+with+a+better+config" alt="typing" />
 
 </div>
 
@@ -28,11 +28,24 @@
 </table>
 </div>
 
+<div align="center">
+
+> *"I've lost everything once. I won't lose it again."*
+>
+> *"A king doesn't wait for strength. He builds it."*
+>
+> *"Alone I was a weapon. With Regis, I'm a kingdom."*
+>
+> <sub>— King Grey</sub>
+
+</div>
+
 ---
 
 ## 🔮 About me
 
 - ❄️ Running **NixOS**, everything declarative, everything reproducible
+- 👤 I'm **umpug**
 - 🪟 Daily driving **Hyprland**
 - 🎮 AMD gaming tuned and **single-GPU VFIO passthrough** for the stuff Linux can't run natively
 - 🐦 X: [@umpugg](https://x.com/umpugg)
@@ -76,7 +89,7 @@
 
 <div align="center">
 
-<sub>"Every life is a new configuration."</sub>
+<sub>"Every rebuild is a new life."</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b2a8a,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
 
