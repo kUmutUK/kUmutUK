@@ -1,53 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3a0000,100:b30000&height=240&section=header&text=TEN%20SECONDS.&fontSize=64&fontColor=ff3b3b&animation=fadeIn&fontAlignY=38&desc=kUmutUK%20%7C%20The%20Beginning%20After%20the%20End&descAlignY=62&descSize=20&descColor=ffb3b3" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0b14,60:1e1633,100:5b3fd1&height=200&section=header&text=kUmutUK%20umpug&fontSize=52&fontColor=ede9fe&fontAlignY=42&desc=King%20Grey%20%C2%B7%20The%20Beginning%20After%20the%20End&descAlignY=66&descSize=17&descColor=a78bfa" alt="kUmutUK umpug" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=FF3B3B&center=true&vCenter=true&width=700&lines=Agrona%2C+you%27ve+tested+my+patience+long+enough.;You+have+ten+seconds.;I+was+a+king+once.+I+know+the+price+of+kneeling.;You+mistook+my+silence+for+mercy." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Agrona%2C+you%27ve+tested+my+patience+long+enough.;You+have+ten+seconds.;I+was+a+king+once.+I+know+the+price+of+kneeling.;You+mistook+my+silence+for+mercy." alt="typing" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/NixOS-5b3fd1?style=flat-square&logo=nixos&logoColor=ede9fe" alt="NixOS" />
+<img src="https://img.shields.io/badge/Hyprland-7c3aed?style=flat-square&logo=hyprland&logoColor=ede9fe" alt="Hyprland" />
+<img src="https://img.shields.io/badge/AMD-8b5cf6?style=flat-square&logo=amd&logoColor=ede9fe" alt="AMD" />
+<img src="https://img.shields.io/badge/VFIO-a78bfa?style=flat-square&logo=linux&logoColor=0d0b14" alt="VFIO" />
+<img src="https://img.shields.io/badge/Shell-c4b5fd?style=flat-square&logo=gnubash&logoColor=0d0b14" alt="Shell" />
 
 </div>
 
----
+<br/>
 
-## 🩸 The Warning
+## ◆ Ten Seconds
 
 > **"Agrona, you've tested my patience long enough. You have ten seconds."**
 
-```
-10... 9... 8... 7... 6...
-5... 4... 3... 2... 1...
-
-$ sudo nixos-rebuild switch --flake .#wrath
+```bash
+for i in {10..1}; do echo "$i..."; sleep 1; done
+sudo nixos-rebuild switch --flake .#grey
 ```
 
----
+<br/>
 
-## ⚔️ Words of the Reborn King
+## ◆ About
+
+I'm **kUmutUK umpug**. I build my whole system as code: one config, fully reproducible, and if it breaks I roll back and start over. Reborn, with the memories intact.
+
+<br/>
+
+## ◆ Words of the King
 
 > *"I was a king once. I know exactly what it costs to kneel."*
-
+>
 > *"You mistook my silence for mercy."*
-
+>
 > *"Run. It will make the ending more interesting."*
-
+>
 > *"Every scar you gave me taught me where to cut you."*
-
+>
 > *"I have died before. It did not stop me then either."*
-
-> *"You cannot kill what has already come back once."*
-
+>
 > *"Rebuild failed? Good. Now I'm angry."*
 
----
+<br/>
 
-## 🔥 Mana Core: Unsealed
+## ◆ Abilities
 
 | Ability | Source |
-|---|---|
-| 💀 **Beast Will** (the pressure that makes enemies freeze) | `NixOS` + flakes |
-| 🩸 **Realmheart** (my domain, my rules) | `Hyprland` |
-| 🔥 **Aether** (raw, merciless power) | AMD GPU / gaming tweaks |
-| 🐺 **Regis** (a loyal beast from another realm) | single-GPU `VFIO` passthrough |
-| 🗡️ **Everyday blade** | `Bash` / Shell |
+|:--|:--|
+| **Beast Will** (the pressure that makes enemies freeze) | NixOS + flakes |
+| **Realmheart** (my domain, my rules) | Hyprland |
+| **Aether** (raw performance) | AMD GPU / gaming tweaks |
+| **Regis** (a loyal partner from another realm) | single-GPU VFIO passthrough |
+| **Everyday blade** | Bash / Shell |
 
 <div align="center">
 
@@ -55,51 +65,49 @@ $ sudo nixos-rebuild switch --flake .#wrath
 
 </div>
 
----
+<br/>
 
-## 🏴 Conquered Territories
+## ◆ Featured
 
 <div align="center">
 
 <a href="https://github.com/kUmutUK/nixos-hyprland-vfio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kUmutUK&repo=nixos-hyprland-vfio&theme=dark&hide_border=true&bg_color=0a0000&title_color=ff3b3b&icon_color=b30000&text_color=ffb3b3" alt="nixos-hyprland-vfio" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kUmutUK&repo=nixos-hyprland-vfio&bg_color=0d0b14&title_color=c4b5fd&icon_color=8b5cf6&text_color=a8a3c7&border_color=2a2440&border_radius=12" alt="nixos-hyprland-vfio" />
 </a>
 <a href="https://github.com/kUmutUK/system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kUmutUK&repo=system&theme=dark&hide_border=true&bg_color=0a0000&title_color=ff3b3b&icon_color=b30000&text_color=ffb3b3" alt="system" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kUmutUK&repo=system&bg_color=0d0b14&title_color=c4b5fd&icon_color=8b5cf6&text_color=a8a3c7&border_color=2a2440&border_radius=12" alt="system" />
 </a>
 
 </div>
 
----
+<br/>
 
-## 📜 Battle Record
+## ◆ Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kUmutUK&show_icons=true&hide_border=true&bg_color=0a0000&title_color=ff3b3b&icon_color=b30000&text_color=ffb3b3" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kUmutUK&layout=compact&hide_border=true&bg_color=0a0000&title_color=ff3b3b&text_color=ffb3b3" alt="languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kUmutUK&show_icons=true&bg_color=0d0b14&title_color=c4b5fd&icon_color=8b5cf6&text_color=a8a3c7&border_color=2a2440&border_radius=12" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kUmutUK&layout=compact&bg_color=0d0b14&title_color=c4b5fd&text_color=a8a3c7&border_color=2a2440&border_radius=12" alt="languages" />
 
-<img src="https://streak-stats.demolab.com?user=kUmutUK&hide_border=true&background=0a0000&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ffb3b3&sideLabels=ffb3b3&currStreakNum=ff3b3b&sideNums=ff3b3b&dates=b30000" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=kUmutUK&background=0d0b14&border=2a2440&ring=8b5cf6&fire=a78bfa&currStreakNum=ede9fe&currStreakLabel=c4b5fd&sideNums=ede9fe&sideLabels=a8a3c7&dates=6b6490&border_radius=12" alt="streak" />
 
 </div>
 
----
-
-## ☠️ Summon Me
+<br/>
 
 <div align="center">
 
 <a href="https://x.com/umpugg">
-  <img src="https://img.shields.io/badge/X-@umpugg-0a0000?style=for-the-badge&logo=x&logoColor=ff3b3b" alt="X" />
+  <img src="https://img.shields.io/badge/@umpugg-0d0b14?style=for-the-badge&logo=x&logoColor=a78bfa&labelColor=0d0b14&color=2a2440" alt="X" />
 </a>
 <a href="https://github.com/kUmutUK?tab=followers">
-  <img src="https://img.shields.io/github/followers/kUmutUK?style=for-the-badge&logo=github&color=b30000&labelColor=0a0000" alt="followers" />
+  <img src="https://img.shields.io/github/followers/kUmutUK?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0d0b14&color=2a2440" alt="followers" />
 </a>
 
 <br/><br/>
 
 *Time's up.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b30000,50:3a0000,100:000000&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b3fd1,60:1e1633,100:0d0b14&height=70&section=footer" alt="footer" />
 
 </div>
