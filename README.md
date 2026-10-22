@@ -1,5 +1,19 @@
 <div align="center">
 
+## ☠️ FINAL WARNING
+
+> ### *"Agrona, you've tested my patience long enough. You have ten seconds."*
+>
+> <sub>— King Grey</sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=40&pause=700&color=C1121F&center=true&vCenter=true&width=500&height=70&repeat=true&lines=10;9;8;7;6;5;4;3;2;1;TIME%27S+UP" alt="countdown" />
+
+</div>
+
+---
+
+<div align="center">
+
 ## 👁️ THE KING & HIS BEAST
 
 <table>
@@ -22,20 +36,6 @@
 
 ---
 
-<div align="center">
-
-## ☠️ FINAL WARNING
-
-> ### *"Agrona, you've tested my patience long enough. You have ten seconds."*
->
-> <sub>— King Grey</sub>
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=40&pause=700&color=C1121F&center=true&vCenter=true&width=500&height=70&repeat=true&lines=10;9;8;7;6;5;4;3;2;1;TIME%27S+UP" alt="countdown" />
-
-</div>
-
----
-
 ## 🩸 ABOUT THE KING
 
 - 👤 **umpug**. I rebuild from nothing, and I don't lose twice.
@@ -44,7 +44,7 @@
 - 🎮 AMD gaming tuned to the edge, **single-GPU VFIO passthrough** when Linux alone isn't enough
 - 🐦 X: [@umpugg](https://x.com/umpugg)
 
-## ⚔️ ARSENAL
+## 🛠️ TECH STACK
 
 <div align="center">
 
