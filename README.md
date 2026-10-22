@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0b14,60:1e1633,100:5b3fd1&height=200&section=header&text=kUmutUK%20umpug&fontSize=52&fontColor=ede9fe&fontAlignY=42&desc=King%20Grey%20%C2%B7%20The%20Beginning%20After%20the%20End&descAlignY=66&descSize=17&descColor=a78bfa" alt="kUmutUK umpug" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0b14,60:1e1633,100:5b3fd1&height=200&section=header&text=umpug&fontSize=64&fontColor=ede9fe&fontAlignY=42&desc=King%20Grey%20%C2%B7%20The%20Beginning%20After%20the%20End&descAlignY=68&descSize=17&descColor=a78bfa" alt="umpug" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Agrona%2C+you%27ve+tested+my+patience+long+enough.;You+have+ten+seconds.;I+was+a+king+once.+I+know+the+price+of+kneeling.;You+mistook+my+silence+for+mercy." alt="typing" />
 
@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/AMD-8b5cf6?style=flat-square&logo=amd&logoColor=ede9fe" alt="AMD" />
 <img src="https://img.shields.io/badge/VFIO-a78bfa?style=flat-square&logo=linux&logoColor=0d0b14" alt="VFIO" />
 <img src="https://img.shields.io/badge/Shell-c4b5fd?style=flat-square&logo=gnubash&logoColor=0d0b14" alt="Shell" />
+<img src="https://komarev.com/ghpvc/?username=kUmutUK&label=VIEWS&color=2a2440&labelColor=0d0b14&style=flat-square" alt="views" />
 
 </div>
 
@@ -29,23 +30,12 @@ sudo nixos-rebuild switch --flake .#grey
 
 ## ◆ About
 
-I'm **kUmutUK umpug**. I build my whole system as code: one config, fully reproducible, and if it breaks I roll back and start over. Reborn, with the memories intact.
+I'm **umpug**. I build my whole system as code: one config, fully reproducible, and if it breaks I roll back and start over. Reborn, with the memories intact.
 
-<br/>
-
-## ◆ Words of the King
-
-> *"I was a king once. I know exactly what it costs to kneel."*
->
-> *"You mistook my silence for mercy."*
->
-> *"Run. It will make the ending more interesting."*
->
-> *"Every scar you gave me taught me where to cut you."*
->
-> *"I have died before. It did not stop me then either."*
->
-> *"Rebuild failed? Good. Now I'm angry."*
+- 🔭 Currently maintaining [`nixos-hyprland-vfio`](https://github.com/kUmutUK/nixos-hyprland-vfio)
+- 🧰 Stack: NixOS, flakes, Hyprland, Shell
+- 🎮 Gaming on Linux with AMD tweaks and single-GPU passthrough
+- 🐦 Find me on [X](https://x.com/umpugg)
 
 <br/>
 
@@ -91,7 +81,30 @@ I'm **kUmutUK umpug**. I build my whole system as code: one config, fully reprod
 
 <img src="https://streak-stats.demolab.com?user=kUmutUK&background=0d0b14&border=2a2440&ring=8b5cf6&fire=a78bfa&currStreakNum=ede9fe&currStreakLabel=c4b5fd&sideNums=ede9fe&sideLabels=a8a3c7&dates=6b6490&border_radius=12" alt="streak" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kUmutUK&bg_color=0d0b14&color=a78bfa&line=8b5cf6&point=ede9fe&area=true&area_color=5b3fd1&hide_border=true" alt="activity graph" />
+
 </div>
+
+<br/>
+
+<details>
+<summary><b>◆ Words of the King</b></summary>
+
+<br/>
+
+> *"I was a king once. I know exactly what it costs to kneel."*
+>
+> *"You mistook my silence for mercy."*
+>
+> *"Run. It will make the ending more interesting."*
+>
+> *"Every scar you gave me taught me where to cut you."*
+>
+> *"I have died before. It did not stop me then either."*
+>
+> *"Rebuild failed? Good. Now I'm angry."*
+
+</details>
 
 <br/>
 
