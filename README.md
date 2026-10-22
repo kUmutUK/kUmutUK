@@ -72,6 +72,4 @@
 
 <sub>Every rebuild is a new life.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:7a0a14,100:0d1117&height=70&section=footer&reversal=true" width="100%" alt="footer" />
-
 </div>
