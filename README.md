@@ -1,27 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0b14,55:1e1633,100:5b3fd1&height=220&section=header&text=KING%20GREY&fontSize=62&fontColor=ede9fe&fontAlignY=40&animation=twinkling&desc=The%20Beginning%20After%20the%20End&descAlignY=64&descSize=18&descColor=a78bfa" alt="King Grey" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Agrona%2C+you%27ve+tested+my+patience+long+enough.;You+have+ten+seconds.;I+was+a+king+once.+I+know+the+price+of+kneeling.;You+mistook+my+silence+for+mercy." alt="typing" />
+<img src="./assets/banner.svg" width="100%" alt="King Grey - The Beginning After the End" />
 
 </div>
 
 <br/>
 
-<div align="center">
-
-### ◆ T E N&nbsp;&nbsp;S E C O N D S
-
+> [!IMPORTANT]
 > **"Agrona, you've tested my patience long enough. You have ten seconds."**
-
-</div>
 
 ```bash
 for i in {10..1}; do echo "$i..."; sleep 1; done
 sudo nixos-rebuild switch --flake .#grey
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0b14,50:5b3fd1,100:0d0b14&height=2&section=header" width="100%" alt="" />
 
 <br/>
 
@@ -29,7 +20,7 @@ sudo nixos-rebuild switch --flake .#grey
 <tr>
 <td width="50%" valign="top">
 
-### ◆ About
+### About
 
 I build my whole system as code: one config, fully reproducible. If it breaks, I roll back and start over. Reborn, with the memories intact.
 
@@ -41,7 +32,7 @@ I build my whole system as code: one config, fully reproducible. If it breaks, I
 </td>
 <td width="50%" valign="top">
 
-### ◆ Abilities
+### Abilities
 
 | Ability | Source |
 |:--|:--|
@@ -55,11 +46,20 @@ I build my whole system as code: one config, fully reproducible. If it breaks, I
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0b14,50:5b3fd1,100:0d0b14&height=2&section=header" width="100%" alt="" />
+### The Cycle
+
+```mermaid
+flowchart LR
+    A([Write config]) --> B[nixos-rebuild switch]
+    B --> C{Works?}
+    C -- yes --> D([Ascend])
+    C -- no --> E[Roll back]
+    E --> A
+```
 
 <br/>
 
-### ◆ Arsenal
+### Arsenal
 
 <div align="center">
 
@@ -72,47 +72,40 @@ I build my whole system as code: one config, fully reproducible. If it breaks, I
 <img src="https://img.shields.io/badge/Hyprland-7c3aed?style=for-the-badge&logo=hyprland&logoColor=ede9fe" alt="Hyprland" />
 <img src="https://img.shields.io/badge/AMD-8b5cf6?style=for-the-badge&logo=amd&logoColor=ede9fe" alt="AMD" />
 <img src="https://img.shields.io/badge/VFIO-a78bfa?style=for-the-badge&logo=linux&logoColor=0d0b14" alt="VFIO" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=nix,linux,bash,git,github,vim&theme=dark" alt="skills" />
+<img src="https://img.shields.io/badge/Shell-c4b5fd?style=for-the-badge&logo=gnubash&logoColor=0d0b14" alt="Shell" />
 
 </div>
 
 <br/>
 
-### ◆ Featured
+### Featured
 
 <div align="center">
 
 <a href="https://github.com/kUmutUK/nixos-hyprland-vfio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kUmutUK&repo=nixos-hyprland-vfio&bg_color=0d0b14&title_color=c4b5fd&icon_color=8b5cf6&text_color=a8a3c7&border_color=2a2440&border_radius=12" alt="nixos-hyprland-vfio" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kUmutUK&repo=nixos-hyprland-vfio&bg_color=0d0b14&title_color=c4b5fd&icon_color=8b5cf6&text_color=a8a3c7&border_color=2a2440&border_radius=14" alt="nixos-hyprland-vfio" />
 </a>
 <a href="https://github.com/kUmutUK/system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kUmutUK&repo=system&bg_color=0d0b14&title_color=c4b5fd&icon_color=8b5cf6&text_color=a8a3c7&border_color=2a2440&border_radius=12" alt="system" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kUmutUK&repo=system&bg_color=0d0b14&title_color=c4b5fd&icon_color=8b5cf6&text_color=a8a3c7&border_color=2a2440&border_radius=14" alt="system" />
 </a>
 
 </div>
 
 <br/>
 
-### ◆ Stats
+### Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kUmutUK&show_icons=true&bg_color=0d0b14&title_color=c4b5fd&icon_color=8b5cf6&text_color=a8a3c7&border_color=2a2440&border_radius=12" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kUmutUK&layout=compact&bg_color=0d0b14&title_color=c4b5fd&text_color=a8a3c7&border_color=2a2440&border_radius=12" alt="languages" />
-
-<br/>
-
-<img height="195" src="https://streak-stats.demolab.com?user=kUmutUK&background=0d0b14&border=2a2440&ring=8b5cf6&fire=a78bfa&currStreakNum=ede9fe&currStreakLabel=c4b5fd&sideNums=ede9fe&sideLabels=a8a3c7&dates=6b6490&border_radius=12" alt="streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kUmutUK&show_icons=true&bg_color=0d0b14&title_color=c4b5fd&icon_color=8b5cf6&text_color=a8a3c7&border_color=2a2440&border_radius=14" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kUmutUK&layout=compact&bg_color=0d0b14&title_color=c4b5fd&text_color=a8a3c7&border_color=2a2440&border_radius=14" alt="languages" />
 
 </div>
 
 <br/>
 
 <details>
-<summary><b>◆ Words of the King</b></summary>
+<summary><b>Words of the King</b></summary>
 
 <br/>
 
@@ -132,10 +125,4 @@ I build my whole system as code: one config, fully reproducible. If it breaks, I
 
 <br/>
 
-<div align="center">
-
-*Time's up.*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b3fd1,55:1e1633,100:0d0b14&height=80&section=footer&animation=twinkling" alt="footer" />
-
-</div>
+<img src="./assets/footer.svg" width="100%" alt="Time's up." />
