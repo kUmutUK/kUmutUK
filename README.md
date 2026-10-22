@@ -6,7 +6,7 @@
 >
 > <sub>— King Grey</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=40&pause=700&color=C1121F&center=true&vCenter=true&width=500&height=70&repeat=true&lines=10;9;8;7;6;5;4;3;2;1;TIME%27S+UP" alt="countdown" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=40&pause=700&color=C1121F&center=true&vCenter=true&width=500&height=60&repeat=true&lines=10;9;8;7;6;5;4;3;2;1;TIME%27S+UP" alt="countdown" />
 
 </div>
 
@@ -41,7 +41,7 @@
 - 👤 **umpug**. I rebuild from nothing, and I don't lose twice.
 - ❄️ **NixOS** — every system declared, every rebuild a rebirth
 - 🪟 **Hyprland** — a throne with no wasted pixels
-- 🎮 AMD gaming tuned to the edge, **single-GPU VFIO passthrough** when Linux alone isn't enough
+- 🎮 AMD gaming tuned to the edge, **single-GPU VFIO passthrough** when Linux alone isn't enough: [nixos-hyprland-vfio](https://github.com/kUmutUK/nixos-hyprland-vfio)
 - 🐦 X: [@umpugg](https://x.com/umpugg)
 
 ## 🛠️ TECH STACK
