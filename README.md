@@ -48,25 +48,12 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NixOS-14141a?style=for-the-badge&logo=nixos&logoColor=C1121F" />
-<img src="https://img.shields.io/badge/Hyprland-14141a?style=for-the-badge&logo=hyprland&logoColor=C1121F" />
-<img src="https://img.shields.io/badge/Linux-14141a?style=for-the-badge&logo=linux&logoColor=C1121F" />
-<img src="https://img.shields.io/badge/Shell-14141a?style=for-the-badge&logo=gnubash&logoColor=C1121F" />
-<img src="https://img.shields.io/badge/AMD-14141a?style=for-the-badge&logo=amd&logoColor=C1121F" />
-<img src="https://img.shields.io/badge/QEMU-14141a?style=for-the-badge&logo=qemu&logoColor=C1121F" />
-
-</div>
-
-## 🗡️ ARTIFACTS
-
-<div align="center">
-
-<a href="https://github.com/kUmutUK/nixos-hyprland-vfio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kUmutUK&repo=nixos-hyprland-vfio&hide_border=false&bg_color=0d1117&title_color=C1121F&icon_color=C1121F&text_color=D9D9D9&border_color=3a0d14" />
-</a>
-<a href="https://github.com/kUmutUK/system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kUmutUK&repo=system&hide_border=false&bg_color=0d1117&title_color=C1121F&icon_color=C1121F&text_color=D9D9D9&border_color=3a0d14" />
-</a>
+<img src="https://img.shields.io/badge/NixOS-14141a?style=for-the-badge&logo=nixos&logoColor=D9D9D9" />
+<img src="https://img.shields.io/badge/Hyprland-14141a?style=for-the-badge&logo=hyprland&logoColor=D9D9D9" />
+<img src="https://img.shields.io/badge/Linux-14141a?style=for-the-badge&logo=linux&logoColor=D9D9D9" />
+<img src="https://img.shields.io/badge/Shell-14141a?style=for-the-badge&logo=gnubash&logoColor=D9D9D9" />
+<img src="https://img.shields.io/badge/AMD-14141a?style=for-the-badge&logo=amd&logoColor=D9D9D9" />
+<img src="https://img.shields.io/badge/QEMU-14141a?style=for-the-badge&logo=qemu&logoColor=D9D9D9" />
 
 </div>
 
@@ -85,6 +72,6 @@
 
 <sub>Every rebuild is a new life.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:7a0a14,100:0d1117&height=120&section=footer&reversal=true" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:7a0a14,100:0d1117&height=70&section=footer&reversal=true" width="100%" alt="footer" />
 
 </div>
