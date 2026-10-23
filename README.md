@@ -6,7 +6,7 @@
 >
 > <sub>— King Grey</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=40&pause=700&color=C1121F&center=true&vCenter=true&width=700&height=60&repeat=true&lines=10;9;8;7;6;5;4;3;2;1;TIME%27S+UP" alt="countdown" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=40&pause=700&color=7C6FE0&center=true&vCenter=true&width=700&height=60&repeat=true&lines=10;9;8;7;6;5;4;3;2;1;TIME%27S+UP" alt="countdown" />
 
 </div>
 
@@ -48,10 +48,10 @@
 <div align="center">
 
 <a href="https://github.com/kUmutUK/nixos-hyprland-vfio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kUmutUK&repo=nixos-hyprland-vfio&bg_color=0d1117&title_color=C1121F&icon_color=C1121F&text_color=D9D9D9&border_color=3a0d14" alt="nixos-hyprland-vfio" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kUmutUK&repo=nixos-hyprland-vfio&bg_color=0d1117&title_color=7C6FE0&icon_color=7C6FE0&text_color=D9D9D9&border_color=221b4a" alt="nixos-hyprland-vfio" />
 </a>
 <a href="https://github.com/kUmutUK/system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kUmutUK&repo=system&bg_color=0d1117&title_color=C1121F&icon_color=C1121F&text_color=D9D9D9&border_color=3a0d14" alt="system" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kUmutUK&repo=system&bg_color=0d1117&title_color=7C6FE0&icon_color=7C6FE0&text_color=D9D9D9&border_color=221b4a" alt="system" />
 </a>
 
 </div>
@@ -75,8 +75,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kUmutUK&show_icons=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=C1121F&icon_color=C1121F&text_color=D9D9D9&border_color=3a0d14" alt="GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com/?user=kUmutUK&background=0d1117&ring=C1121F&fire=C1121F&currStreakNum=D9D9D9&currStreakLabel=C1121F&sideNums=D9D9D9&sideLabels=8A8A93&dates=8A8A93&stroke=3a0d14&border=3a0d14" alt="Contribution streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kUmutUK&show_icons=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=7C6FE0&icon_color=7C6FE0&text_color=D9D9D9&border_color=221b4a" alt="GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com/?user=kUmutUK&background=0d1117&ring=7C6FE0&fire=7C6FE0&currStreakNum=D9D9D9&currStreakLabel=7C6FE0&sideNums=D9D9D9&sideLabels=8A8A93&dates=8A8A93&stroke=221b4a&border=221b4a" alt="Contribution streak" />
 
 </div>
 
