@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kUmutUK&show_icons=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=7C6FE0&icon_color=7C6FE0&text_color=D9D9D9&border_color=221b4a" alt="GitHub stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=kUmutUK&show_icons=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=7C6FE0&icon_color=7C6FE0&text_color=D9D9D9&border_color=221b4a" alt="GitHub stats" />
 <img height="170" src="https://streak-stats.demolab.com/?user=kUmutUK&background=0d1117&ring=7C6FE0&fire=7C6FE0&currStreakNum=D9D9D9&currStreakLabel=7C6FE0&sideNums=D9D9D9&sideLabels=8A8A93&dates=8A8A93&stroke=221b4a&border=221b4a" alt="Contribution streak" />
 
 </div>
