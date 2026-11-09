@@ -48,10 +48,10 @@
 <div align="center">
 
 <a href="https://github.com/kUmutUK/nixos-hyprland-vfio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kUmutUK&repo=nixos-hyprland-vfio&bg_color=0d1117&title_color=7C6FE0&icon_color=7C6FE0&text_color=D9D9D9&border_color=221b4a" alt="nixos-hyprland-vfio" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=kUmutUK&repo=nixos-hyprland-vfio&bg_color=0d1117&title_color=7C6FE0&icon_color=7C6FE0&text_color=D9D9D9&border_color=221b4a" alt="nixos-hyprland-vfio" />
 </a>
 <a href="https://github.com/kUmutUK/system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kUmutUK&repo=system&bg_color=0d1117&title_color=7C6FE0&icon_color=7C6FE0&text_color=D9D9D9&border_color=221b4a" alt="system" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=kUmutUK&repo=system&bg_color=0d1117&title_color=7C6FE0&icon_color=7C6FE0&text_color=D9D9D9&border_color=221b4a" alt="system" />
 </a>
 
 </div>
